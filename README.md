@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L2oukmane
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning std::cout<<"C++\n";
+- 🌱 I’m currently learning console.log(web development);
 - 💞️ I’m looking to collaborate on different interesting works
 - 📫 How to reach me: oustanilokman@gmail.com
 

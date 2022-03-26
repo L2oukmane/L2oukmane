@@ -1,9 +1,4 @@
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/loukmane-oustani-221668211/" title="LinkedIn Profile"> LinkedIn</a></code> 
-  <code><a href="https://twitter.com/LoukmaneOustani" title="LinkedIn Profile"> Twitter</a></code>
-  <code><a href="https://www.hackerrank.com/oustanilokman" title="LinkedIn Profile"> HackerRank</a></code>
-  <code><a href="https://www.codewars.com/users/Loukmane" title="LinkedIn Profile"> Codewars</a></code> 
-</h5>
+
 
 
                                                      👋 Hi, I’m Loukmane, A software Developer
@@ -30,7 +25,20 @@
 <p>
 
   
-  <h2 align="center">⚡ Stats ⚡</h2>
+  
+<p align="center">&nbsp;
+ 
+| Activities |   Languages |
+| ---------- | ----------- |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=L2oukmane&show_icons=true&theme=outrun" alt="Loukmane Oustani" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=L2oukmane&show_icons=true&theme=outrun&layout=compact" alt="Loukmane Oustani" width="410"/>|
+</p>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/loukmane-oustani-221668211/" title="LinkedIn Profile"> LinkedIn</a></code> 
+  <code><a href="https://twitter.com/LoukmaneOustani" title="LinkedIn Profile"> Twitter</a></code>
+  <code><a href="https://www.hackerrank.com/oustanilokman" title="LinkedIn Profile"> HackerRank</a></code>
+  <code><a href="https://www.codewars.com/users/Loukmane" title="LinkedIn Profile"> Codewars</a></code> 
+</h5>
   
 <!---
 L2oukmane/L2oukmane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

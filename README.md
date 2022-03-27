@@ -18,9 +18,9 @@
  <hr>
 <h2 align="center">Languages | Tools | Skills</h2>
 <p align="center">
-<code><a href="https://www.javascript.com/" title="JavaScript"> JavaScript</a></code>
-<code><a href="https://www.javascript.com/" title="JavaScript"> JavaScript</a></code>
- <code><a href="https://reactjs.org/" title="React"> React</a></code>
+<code><a href="https://www.javascript.com/" title="JavaScript"> JavaScript</a></code>  |
+<code><a href="https://www.javascript.com/" title="JavaScript"> Node</a></code>  |
+ <code><a href="https://reactjs.org/" title="React"> React</a></code>  |
 <code><a href="https://reactnative.dev/" title="React Native"> React Native</a></code>
 <p>
 
@@ -34,10 +34,10 @@
 </p>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/loukmane-oustani-221668211/" title="LinkedIn Profile"> LinkedIn</a></code> 
-  <code><a href="https://twitter.com/LoukmaneOustani" title="LinkedIn Profile"> Twitter</a></code>
-  <code><a href="https://www.hackerrank.com/oustanilokman" title="LinkedIn Profile"> HackerRank</a></code>
-  <code><a href="https://www.codewars.com/users/Loukmane" title="LinkedIn Profile"> Codewars</a></code> 
+  <code><a href="https://www.linkedin.com/in/loukmane-oustani-221668211/" title="LinkedIn Profile"> LinkedIn</a></code><hr> 
+  <code><a href="https://twitter.com/LoukmaneOustani" title="LinkedIn Profile"> Twitter</a><hr></code>
+  <code><a href="https://www.hackerrank.com/oustanilokman" title="LinkedIn Profile"> HackerRank</a><hr></code>
+  <code><a href="https://www.codewars.com/users/Loukmane" title="LinkedIn Profile"> Codewars</a><hr></code> 
 </h5>
   
 <!---

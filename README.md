@@ -15,6 +15,8 @@
                                                   
                                                      📫 How to reach me: oustanilokman@gmail.com 
                                                      
+                                                              🛄 Open to new opportunities
+                                                     
  <hr>
 <h2 align="center">Languages | Tools | Skills</h2>
 <p align="center">

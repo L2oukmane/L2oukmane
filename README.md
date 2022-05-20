@@ -36,7 +36,7 @@
 </p>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/loukmane-oustani-221668211/" title="LinkedIn Profile"> LinkedIn</a></code><hr> 
+  <code><a href="www.linkedin.com/in/loukmaneoustani" title="LinkedIn Profile"> LinkedIn</a></code><hr> 
   <code><a href="https://twitter.com/LoukmaneOustani" title="LinkedIn Profile"> Twitter</a><hr></code>
   <code><a href="https://www.hackerrank.com/oustanilokman" title="LinkedIn Profile"> HackerRank</a><hr></code>
   <code><a href="https://www.codewars.com/users/Loukmane" title="LinkedIn Profile"> Codewars</a><hr></code> 
